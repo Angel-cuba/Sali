@@ -12,6 +12,19 @@ namespace Sali3
         protected string paino;
         protected string pituus;
         //---------------------------------------
+        // Kenttiä vastaavat ominaisuudet (property)
+        public string Paino
+        {
+            get { return this.paino; }
+        }
+        public string Paiva
+        {
+            get { return this.paiva; }
+        }
+        public string Pituus
+        {
+            get { return this.pituus; }
+        }
 
         // Muodostin kaikilla parametreilla
         public Punnitus(string paiva, string paino, string pituus)

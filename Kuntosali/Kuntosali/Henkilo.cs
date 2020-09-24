@@ -53,6 +53,16 @@ namespace Sali3
         //Aqui está lo nuevo
         protected string syntymaAika;
 
+        //----------si quiero usarlo en otro lado hay que ponerlo en PUBLIC
+        public string Syntymäaika
+        {
+            get { return this.syntymaAika; }
+        }
+        public string Sukupuoli
+        {
+            get { return this.sukupuoli; }
+        }
+
         // Muodostin kaikilla parametreillä
         public Jasen(string etu, string suku, string katu, string pnro, string paikka, string id, string sukup, string saika)
         {

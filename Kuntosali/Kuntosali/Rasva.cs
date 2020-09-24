@@ -26,8 +26,23 @@ namespace Sali3
             float pituusM = float.Parse(pituus);
 
             // Lasketaan painoindeksi ja palautetaan se
+            try
+            {
             float bmi = painoKg / (pituusM * pituusM);
             return bmi;
+            }
+            catch (Exception)
+            {
+                float bmi = 0;
+                return bmi;
+                //Console.WriteLine("vbkdjnkz,biasfia");
+                //ScriptManager.RegisterStartupScript(this, GetType(), "alertMessage", "alert('Called from code-behind directly!');", true);
+                Console.Beep();
+
+                throw;
+            }
+
+
         }
 
         // Staattinen metodi, jolla rasvaprosentti voidaan laskea luomatta oliota

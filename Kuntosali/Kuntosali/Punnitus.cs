@@ -11,6 +11,7 @@ namespace Sali3
         protected string paiva;
         protected string paino;
         protected string pituus;
+        //---------------------------------------
 
         // Muodostin kaikilla parametreilla
         public Punnitus(string paiva, string paino, string pituus)
@@ -20,16 +21,7 @@ namespace Sali3
             this.pituus = pituus;
         }
 
-        public float BMI()
-        {
-            // Muutetaan olion merkkijono-ominaisuudet liukuluvuiksi
-            float paino = float.Parse(this.paino);
-            float pituus = float.Parse(this.pituus);
-
-            // Lasketaan painoindeksi ja palautetaan se
-            float bmi = paino / (pituus * pituus);
-            return bmi;
-        }
+       
         // Testausmetodi punnitustietojen näyttämiseen
         public void naytaPunnitus()
         {

@@ -10,3 +10,16 @@ C:\Users\araoz\source\repos\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosal
 C:\Users\araoz\source\repos\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.dll
 C:\Users\araoz\source\repos\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.pdb
 C:\Users\araoz\source\repos\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.genruntimeconfig.cache
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosali.exe
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosali.deps.json
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosali.runtimeconfig.json
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosali.runtimeconfig.dev.json
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosali.dll
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\bin\Debug\netcoreapp3.1\Kuntosali.pdb
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.csprojAssemblyReference.cache
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.AssemblyInfoInputs.cache
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.AssemblyInfo.cs
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.csproj.CoreCompileInputs.cache
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.dll
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.pdb
+C:\Users\araoz\source\repos\Sali\Sali\Kuntosali\Kuntosali\obj\Debug\netcoreapp3.1\Kuntosali.genruntimeconfig.cache

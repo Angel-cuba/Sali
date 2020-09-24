@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\araoz\\source\\repos\\Kuntosali\\Kuntosali\\Kuntosali.csproj": {}
+    "C:\\Users\\araoz\\source\\repos\\Sali\\Sali\\Kuntosali\\Kuntosali\\Kuntosali.csproj": {}
   },
   "projects": {
-    "C:\\Users\\araoz\\source\\repos\\Kuntosali\\Kuntosali\\Kuntosali.csproj": {
+    "C:\\Users\\araoz\\source\\repos\\Sali\\Sali\\Kuntosali\\Kuntosali\\Kuntosali.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\araoz\\source\\repos\\Kuntosali\\Kuntosali\\Kuntosali.csproj",
+        "projectUniqueName": "C:\\Users\\araoz\\source\\repos\\Sali\\Sali\\Kuntosali\\Kuntosali\\Kuntosali.csproj",
         "projectName": "Kuntosali",
-        "projectPath": "C:\\Users\\araoz\\source\\repos\\Kuntosali\\Kuntosali\\Kuntosali.csproj",
+        "projectPath": "C:\\Users\\araoz\\source\\repos\\Sali\\Sali\\Kuntosali\\Kuntosali\\Kuntosali.csproj",
         "packagesPath": "C:\\Users\\araoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\araoz\\source\\repos\\Kuntosali\\Kuntosali\\obj\\",
+        "outputPath": "C:\\Users\\araoz\\source\\repos\\Sali\\Sali\\Kuntosali\\Kuntosali\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\araoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
